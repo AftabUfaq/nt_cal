@@ -1,6 +1,6 @@
 {
   "name": "nt_calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command Line Calculator using Node.js, TypeScript, and Inquirer",
   "homepage": "https://github.com/AftabUfaq/nt_cal",
   "type": "module",
