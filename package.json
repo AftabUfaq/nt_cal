@@ -12,7 +12,10 @@
   "scripts": {
     "start": "ts-node src/index"
   },
-  "bin": "./src/index.ts",
+  "bin": {
+    "nt_calculator": "./src/index.ts"
+  },
+
   "keywords": [],
   "author": "Aftab Ameen",
   "license": "ISC",
